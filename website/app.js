@@ -6,8 +6,7 @@ const baseURL='http://api.openweathermap.org/data/2.5/weather?zip=';
 // my API Key for OpenWeatherMap API
 //i use (&units=metric) to get temperature in Celsius
 //i hide my key so no one can use it 
-const key='&units=metric&appid=990e01da145269b81a6c9c11793fdd5b';
-//const key='&units=metric&appid=********************************';
+const key='&units=metric&appid=********************************';
 
 // Create a new date instance dynamically with JS
 let d = new Date();
